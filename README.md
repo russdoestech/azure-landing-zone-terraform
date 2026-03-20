@@ -7,3 +7,4 @@ implemented using Terraform and CI/CD pipelines.
 - Platform and workload separation
 - Governance by design
 - Automation-first approach
+- Test
